@@ -14,7 +14,7 @@
     "@fullcalendar/daygrid": "4.0.1",
     "@fullcalendar/interaction": "^4.0.1",
     "core-js": "2.6.5",
-    "ng-fullcalendar": "2.0.1",
+    "ng-fullcalendar": "^2.0.3",
     "rxjs": "6.4.0",
     "zone.js": "0.8.29"
   },
