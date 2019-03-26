@@ -44,6 +44,9 @@ export class AppComponent implements OnInit {
   eventDragStop(model) {
     console.log(model);
   }
+  clickButton(model) {
+    console.log(model);
+  }
   dateClick(model) {
     console.log(model);
   }
